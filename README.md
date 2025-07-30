@@ -17,8 +17,6 @@ This project implements a linear regression model with multiple input features f
   * `gradient_descent_mulity_input_variable.py`: Implements the `gradient_descent` algorithm.
   * `main.py`: The main script to run the linear regression, generate data, train the model, and compare it with scikit-learn's implementation.
 
-## README.md
-
 # Linear Regression Multi-Feature Implementation from Scratch
 
 This project provides a complete implementation of a linear regression model for multiple input features using pure Python and NumPy. The goal is to demystify the internal workings of linear regression, including the cost function (Mean Squared Error) and the optimization algorithm (Gradient Descent), by building them from the ground up.
