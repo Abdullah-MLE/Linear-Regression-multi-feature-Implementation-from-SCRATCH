@@ -1,9 +1,3 @@
-# Linear-Regression-multi-feature-Implementation-from-SCRATCH
-This project implements a multi-feature linear regression model from scratch using Python and NumPy, covering data generation, MSE cost function, and gradient descent. It's validated against Scikit-learn to clarify core mechanics.
-
-
-Below is a description and a README file for the "Linear Regression Multi-Feature Implementation from Scratch" project.
-
 ## Project Description
 
 This project implements a linear regression model with multiple input features from scratch using Python and NumPy. It demonstrates the core concepts of linear regression, including data generation, cost function calculation (Mean Squared Error), and optimization using gradient descent. The implementation aims to provide a clear understanding of how these components work together to train a linear model without relying on high-level machine learning libraries for the core algorithm.
